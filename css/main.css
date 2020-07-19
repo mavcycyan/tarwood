@@ -91,6 +91,7 @@ header {
 .h-phn {
 	display: flex;
 	flex-wrap: wrap;
+	align-items: flex-start;
 }
 .h-phn img {
 	width: 19px;
@@ -109,6 +110,7 @@ header {
 .h-ml {
 	display: flex;
 	flex-wrap: wrap;
+	align-items: flex-start;
 }
 .h-ml img {
 	width: 19px;
@@ -850,6 +852,7 @@ main {
 .contacts-info-row {
     display: flex;
     flex-wrap: wrap;
+	align-items: flex-start;
     margin-bottom: 6px;
 }
 .contacts-info-row img {
@@ -1073,6 +1076,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 8px;
+	align-items: flex-start;
 }
 .f-phn img {
     width: 19px;
@@ -1091,6 +1095,7 @@ footer {
 .f-ml {
     display: flex;
     flex-wrap: wrap;
+	align-items: flex-start;
 }
 .f-ml img {
     width: 19px;
